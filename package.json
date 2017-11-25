@@ -1,0 +1,12 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "ReactJs training",
+  "main": "index.js",
+  "author": "Ing. Carlos Cruz",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
